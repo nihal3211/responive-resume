@@ -1,1 +1,1 @@
-# responive-resume
+# responsive-resume
